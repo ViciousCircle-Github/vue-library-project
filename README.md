@@ -1,2 +1,2 @@
 # vue-library-project
-library project made with vue js 
+library web application made with VueJS,nodeJS and MongoDB
